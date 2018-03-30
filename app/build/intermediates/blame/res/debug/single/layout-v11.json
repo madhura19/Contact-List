@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\Rutgers\\Mobile Apps\\Assignments\\Assignment 2\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Madhura\\.android\\build-cache\\3ee7a11ab4641c9d6953d2a1cb772c4bfe09d3a9\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\Rutgers\\Mobile Apps\\Assignments\\Assignment 2\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Madhura\\.android\\build-cache\\3ee7a11ab4641c9d6953d2a1cb772c4bfe09d3a9\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "F:\\Rutgers\\Mobile Apps\\Assignments\\Assignment 2\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Madhura\\.android\\build-cache\\3ee7a11ab4641c9d6953d2a1cb772c4bfe09d3a9\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "F:\\Rutgers\\Mobile Apps\\Assignments\\Assignment 2\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Madhura\\.android\\build-cache\\3ee7a11ab4641c9d6953d2a1cb772c4bfe09d3a9\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\Rutgers\\Mobile Apps\\Assignments\\Assignment 2\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Madhura\\.android\\build-cache\\3ee7a11ab4641c9d6953d2a1cb772c4bfe09d3a9\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\Rutgers\\Mobile Apps\\Assignments\\Assignment 2\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Madhura\\.android\\build-cache\\3ee7a11ab4641c9d6953d2a1cb772c4bfe09d3a9\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    }
+]

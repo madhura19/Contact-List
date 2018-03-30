@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Rutgers\Mobile Apps\Assignments\Assignment 2\ContactsList\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\Rutgers\Mobile Apps\Assignments\Assignment 2\ContactsList\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9edd500e647179949552407b0bf612f6d7b6ed6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Rutgers\Mobile Apps\Assignments\Assignment 2\ContactsList\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="898f2a9a9872ef4f4e83961781b786a4bac0b037">
+        <dex dex="F:\Rutgers\Mobile Apps\Assignments\Assignment 2\ContactsList\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4211a4ade5bf1f6bf7c2cfa2e42c967fd0328293\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Madhura\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="F:\Rutgers\Mobile Apps\Assignments\Assignment 2\ContactsList\app\build\intermediates\pre-dexed\debug\gson-2.8.2_f6f6b53e990f5a6953262b561fc6240ce375bb4c.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    build-mode="COLD"
+    density="420dpi"
+    format="10"
+    plugin-version="2.3.3"
+    timestamp="1508552765800"
+    token="-8888485814893665539"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1065" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="27" />
+    <task
+        name="verifier"
+        duration="59" />
+
+    <artifact
+        location="F:\Rutgers\Mobile Apps\Assignments\Assignment 2\ContactsList\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\Rutgers\Mobile Apps\Assignments\Assignment 2\ContactsList\app\build\outputs\apk\app-debug.apk"
+        type="SPLIT_MAIN" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1508552708470"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="F:\Rutgers\Mobile Apps\Assignments\Assignment 2\ContactsList\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1508552765800"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="F:\Rutgers\Mobile Apps\Assignments\Assignment 2\ContactsList\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="F:\Rutgers\Mobile Apps\Assignments\Assignment 2\ContactsList\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+
+</instant-run>
